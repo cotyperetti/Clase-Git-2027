@@ -1,1 +1,4 @@
-Color favorito: amarillo patito
+<<<<<<< HEAD
+Color favorito: amarillo patito y verde
+
+>>>>>>> rama-b
